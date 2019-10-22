@@ -48,7 +48,6 @@ websites:
       sms: Yes
       phone: Yes
       software: Yes
-      hardware: No
       otp: No
       exceptions:
           text: "SMS or Apple device 2FA only. No third party authenticator support"
